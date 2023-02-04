@@ -1,4 +1,5 @@
 # Equation Solver
+## Description
 This app solves equations in one, two or three variables which have an integral solution.
 
 ## Usage
